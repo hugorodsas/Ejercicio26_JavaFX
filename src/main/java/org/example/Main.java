@@ -194,6 +194,7 @@ public class Main extends Application {
                 alerta.showAndWait();
             }
 
+
         } catch (Exception e) {
             e.printStackTrace();
 
